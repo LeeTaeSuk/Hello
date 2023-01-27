@@ -25,17 +25,13 @@
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=black">
 <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=TypeScript&logoColor=black">
 </p> 
-
 <p>
 <h3>
   자격증 Certificate
 </h3>
 <h4>
   네트워크 관리사 2급
-  <br>
   정보처리 기능사
-  <br>
   ITQ 한글, 워드, 엑셀 A
-  <br>
 </h4>  
 </p>
