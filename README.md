@@ -5,7 +5,7 @@
 <h2 align="center">
   안녕하십니까 웹 앱 개발자가 되고 싶어하는 이태석학생입니다!
 </h2>
-<br><br>
+<br>
 <h3>
   자격증 Certificate
 </h3>
