@@ -20,10 +20,9 @@
 <img src="https://img.shields.io/badge/Spring-6db33f?style=for-the-badge&logo=Spring&logoColor=black">
 <img src="https://img.shields.io/badge/Linux-fcc624?style=for-the-badge&logo=Linux&logoColor=black">
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=black">
-<img src="https://img.shields.io/badge/MongoDB-003545?style=for-the-badge&logo=MongoDB&logoColor=black">
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-003545?style=for-the-badge&logo=MongoDB&logoColor=white">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=black">
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=black">
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=black">
 <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=TypeScript&logoColor=black">
 </p> 
