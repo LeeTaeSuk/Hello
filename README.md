@@ -12,8 +12,8 @@
 <img src="https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&logo=MySQL&logoColor=black">
 <img src="https://img.shields.io/badge/JS-F7df1e\?style=for-the-badge&logo=JavaScript&logoColor=black">
 <img src="https://img.shields.io/badge/Java-ff7800?style=for-the-badge&logo=JAVA&logoColor=black">
-<img src="https://img.shields.io/badge/Kotlin-색코드?style=for-the-badge&logo=이미지 이름&logoColor=black">
-<img src="https://img.shields.io/badge/Spring-색코드?style=for-the-badge&logo=이미지 이름&logoColor=black">
+<img src="https://img.shields.io/badge/Kotlin-7f52ff?style=for-the-badge&logo=Kotlin&logoColor=black">
+<img src="https://img.shields.io/badge/SpringBOOT-6db33f?style=for-the-badge&logo=Spring Boot&logoColor=black">
 </p>
 
 
