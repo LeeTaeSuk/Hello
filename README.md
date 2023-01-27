@@ -9,7 +9,6 @@
 <h3>
   자격증 Certificate
 </h3>
-<br>
 <h4>
   네트워크 관리사 2급
   <br>
