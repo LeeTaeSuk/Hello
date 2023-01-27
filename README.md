@@ -4,7 +4,7 @@
 <h2 align="center">
   안녕하십니까 웹 앱 개발자가 되고 싶어하는 이태석학생입니다!
 </h2>
-<h2 align = "center">What I'm learning right now
+<h2 align = "center">What I'm learning right now </br></br>
 <p align="center">
 <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=React&logoColor=black">
 <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=Python&logoColor=black">
@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/Kotlin-7f52ff?style=for-the-badge&logo=Kotlin&logoColor=black">
 <img src="https://img.shields.io/badge/SpringBOOT-6db33f?style=for-the-badge&logo=Spring Boot&logoColor=black">
 </p>
-  <h2 align = "center">What I want to learn later
+  <h2 align = "center">What I want to learn later </br></br>
 <p align="center">
 <img src="https://img.shields.io/badge/Spring-6db33f?style=for-the-badge&logo=Spring&logoColor=black">
 <img src="https://img.shields.io/badge/Linux-fcc624?style=for-the-badge&logo=Linux&logoColor=black">
@@ -43,8 +43,8 @@
     2023~
   </h3>
   <h4>
-    *한이음 공모전 준비중</br></br>
-    *투두리스트 어플 프로젝트 진행중</br></br>
+    * 한이음 공모전 준비중</br></br>
+    * 투두리스트 어플 프로젝트 진행중</br></br>
   </h4>
 </p>
 <p>
