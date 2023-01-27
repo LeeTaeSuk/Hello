@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/Kotlin-7f52ff?style=for-the-badge&logo=Kotlin&logoColor=black">
 <img src="https://img.shields.io/badge/SpringBOOT-6db33f?style=for-the-badge&logo=Spring Boot&logoColor=black">
 </p>
-<h2 align = "center">What I want to learn later<h/2>
+<h2 align = "center">What I want to learn later</h2>
 <p>
 <img src="https://img.shields.io/badge/Spring-6db33f?style=for-the-badge&logo=Spring&logoColor=black">
 <img src="https://img.shields.io/badge/Linux-fcc624?style=for-the-badge&logo=Linux&logoColor=black">
@@ -26,8 +26,7 @@
 <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=TypeScript&logoColor=black">
 </p> 
 
-
-<br>
+<p>
 <h3>
   자격증 Certificate
 </h3>
@@ -38,8 +37,5 @@
   <br>
   ITQ 한글, 워드, 엑셀 A
   <br>
-</h4>
- 
-
-
- 
+</h4>  
+</p>
