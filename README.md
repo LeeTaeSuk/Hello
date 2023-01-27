@@ -4,7 +4,6 @@
 <h2 align="center">
   안녕하십니까 웹 앱 개발자가 되고 싶어하는 이태석학생입니다!
 </h2>
-<br>
 <h2 align = "center">What I'm learning Right now<h/2>
 <p>
 <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=React&logoColor=black">
