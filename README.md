@@ -43,15 +43,15 @@
     2023
   </h3>
   <h4>
-    * 대림대학교 컴퓨터정보학부 COMMON 전공동아리 부장</br></br>
-    &nbsp;&nbsp;&nbsp;&nbsp * 웹, 자격증 스터디 개설 및 활동진행</br></br>
-    &nbsp;&nbsp;&nbsp;&nbsp * 대림대학교 교내대회 테크페어 참여</br></br>
+    * 대림대학교 컴퓨터정보학부 COMMON 전공동아리 부장</br>
+    &nbsp;&nbsp;&nbsp;&nbsp * 웹, 자격증 스터디 개설 및 활동진행</br>
+    &nbsp;&nbsp;&nbsp;&nbsp * 대림대학교 교내대회 테크페어 참여</br>
     &nbsp;&nbsp;&nbsp;&nbsp * KITAS 스마트 디바이스 박람회 및 STK 스마트 테크 코리아 박람회 참여</br></br>
-    * 대림대학교 컴퓨터정보학부 해커톤 교내대회 참여(2023.11.09)</br></br>
-    &nbsp;&nbsp;&nbsp;&nbsp * 밀키웨이 웹서비스 제작</br></br>
+    * 대림대학교 컴퓨터정보학부 해커톤 교내대회 참여(2023.11.09)</br>
+    &nbsp;&nbsp;&nbsp;&nbsp * 밀키웨이 웹서비스 제작</br>
     &nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp * 대학교 교내 뿐만 아닌 교외 교류 활동을 위한 커뮤니티 웹서비스</br></br>
-    * 대림대학교 컴퓨터정보학부 COMMON 전공동아리 부장</br></br>
-    &nbsp;&nbsp;&nbsp;&nbsp * 로봇과 함께 배우는 언플러그드 코딩 초등생 대상 강의(2023.12.28 ~ 2024.02.24)</br></br>
+    * 대림대학교 컴퓨터정보학부 COMMON 전공동아리 부장</br>
+    &nbsp;&nbsp;&nbsp;&nbsp * 로봇과 함께 배우는 언플러그드 코딩 초등생 대상 강의(2023.12.28 ~ 2024.02.24)</br>
   </h4>
 </p>
 <p>
