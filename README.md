@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=slice&color=50BCDF&height=300&section=header&text=Welcome&fontColor=FFFFFF&fontSize=90&animation=fadeIn"/>
 </p>
 <h2 align="center">
-  안녕하십니까 웹 앱 개발자가 되고 싶어하는 이태석학생입니다!
+  안녕하십니까 웹 앱 개발자가 되고 싶어하는 이태경학생입니다!
 </h2>
 <h2 align = "center">What I'm learning right now </br></br>
 <p align="center">
